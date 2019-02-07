@@ -5,6 +5,7 @@
 }
 
 div.pics{
+	margin: auto;
 	border: 3px solid gold;
 	padding: 3px;
 }
@@ -19,6 +20,7 @@ div.pics img{
 }
 
 h1{
+	text-align: center;
 	color: purple;
 	background-color: gold;
 }
