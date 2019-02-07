@@ -8,20 +8,13 @@ div.gallery:hover{
 	animation-duration: 1s;
 }
 div.gallery img{
-	width: 200px;
-	height: 200px;
+	width: 300px;
+	height: 300px;
 }
 
 h1{
 	color: purple;
 	background-color: gold;
-}
-
-div {
-	border: 5px solid black;
-	height: 100px;
-	width: auto;
-	padding: 8px;
 }
 
 body{
