@@ -4,19 +4,13 @@
 	100% {border-color: black;}
 }
 
-.intro{
-	margin: auto;
-	border: solid black;
-}
-.calendar{
-	margin: auto;
-	border: solid black;
-	border-radius: 9px;
-}
-.gallery{
+div {
 	border: 4px solid black;
+	height: 200px;
+	width: 100%;
 	padding: 8px;
 }
+
 .gallery:hover{
 	animation-name: divhover;
 	animation-duration: 1s;
