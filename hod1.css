@@ -1,3 +1,17 @@
+ @keyframes divhover{
+	0% {border-color: black;}
+	50% {border-color: gold;}
+	100% {border-color: black;}
+}
+div.gallery:hover{
+	animation-name: divhover;
+	animation-duration: 1s;
+}
+div.gallery img{
+	width: 200px;
+	height: 200px;
+}
+
 h1{
 	color: purple;
 	background-color: gold;
@@ -11,12 +25,12 @@ div {
 }
 
 body{
-	background-color: F7EDE2;
+	background-color: #F7EDE2;
 }
 
 a{
-	color: F5CAC3;
+	color: #F5CAC3;
 }
 a:hover{
-	color: 84A59D;
+	color: #84A59D;
 }
