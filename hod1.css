@@ -1,9 +1,3 @@
-@keyframes divhover{
-	0% {border-color: black;}
-	50% {border-color: gold;}
-	100% {border-color: black;}
-}
-
 h1{
 	color: purple;
 	background-color: gold;
