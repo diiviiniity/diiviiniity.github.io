@@ -15,13 +15,3 @@ div {
 	width: 100%;
 	padding: 8px;
 }
-
-.gallery:hover{
-	animation-name: divhover;
-	animation-duration: 1s;
-}
-
-.gallery img{
-	width: 200px;
-	height: 200px;
-}
