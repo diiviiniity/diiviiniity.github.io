@@ -3,11 +3,17 @@
 	50% {border-color: gold;}
 	100% {border-color: black;}
 }
-div.gallery:hover{
+
+div.pics{
+	border: 3px solid gold;
+	padding: 3px;
+}
+
+div.pics:hover{
 	animation-name: divhover;
 	animation-duration: 1s;
 }
-div.gallery img{
+div.pics img{
 	width: 300px;
 	height: 300px;
 }
