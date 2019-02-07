@@ -4,8 +4,19 @@ h1{
 }
 
 div {
-	border: 4px solid black;
-	height: 200px;
-	width: 100%;
+	border: 5px solid black;
+	height: 100px;
+	width: auto;
 	padding: 8px;
+}
+
+body{
+	background-color: F7EDE2;
+}
+
+a{
+	color: F5CAC3;
+}
+a:hover{
+	color: 84A59D;
 }
