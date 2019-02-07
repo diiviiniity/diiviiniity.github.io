@@ -4,6 +4,11 @@
 	100% {border-color: black;}
 }
 
+h1{
+	color: purple;
+	background-color: gold;
+}
+
 div {
 	border: 4px solid black;
 	height: 200px;
