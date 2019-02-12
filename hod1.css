@@ -1,4 +1,4 @@
- @keyframes divhover{
+@keyframes divhover{
 	0% {border-color: black;}
 	50% {border-color: gold;}
 	100% {border-color: black;}
@@ -19,8 +19,11 @@ div.pics img{
 	height: 300px;
 }
 
+div.header {
+	margin-top: 50%;
+	padding: 700px;
 h1{
-	text-align: left;
+	text-align: right;
 	color: purple;
 	background-color: gold;
 }
