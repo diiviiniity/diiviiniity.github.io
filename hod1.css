@@ -6,13 +6,14 @@
 
 div.pics{
 	margin: auto;
-	border: 3px solid gold;
+	border: 5px solid gold;
 	padding: 3px;
 }
 
 div.pics:hover{
 	animation-name: divhover;
-	animation-duration: 1s;
+	animation-duration: 3s;
+	animation-iteration-count: infinite;
 }
 div.pics img{
 	width: 300px;
