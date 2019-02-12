@@ -21,9 +21,11 @@ div.pics img{
 }
 
 div.header {
-	margin-top: 50%;
-	margin-bottom: 50%;
+	margin-top: 500px
+	margin-bottom: 500px;
 	padding: 700px;
+}
+
 h1{
 	text-align: right;
 	color: purple;
